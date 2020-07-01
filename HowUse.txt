@@ -1,0 +1,6 @@
+# criando nova virtualEnv:
+    virtualenv nome_da_virtualenv
+
+# O comando para ativar a virtualenv no Windows é "nome_da_virtualenv/Scripts/Activate".
+# O comando para desativar é "deactivate"
+
